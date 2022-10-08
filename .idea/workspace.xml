@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="236c12e5-731d-489e-ada2-56b16240f344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaproject_old.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/BaseCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/CarCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/CreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/ICreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/MilitaryCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JclassRepeat/TeacherCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/inh/BaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/inh/DessertOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/inh/FoodOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/inh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/inh/PersonelCareProductOrder.java" afterDir="false" />
+    <list default="true" id="236c12e5-731d-489e-ada2-56b16240f344" name="Changes" comment="java-homework-3weeks-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664914513188</updated>
     </task>
+    <task id="LOCAL-00001" summary="java-homework-3weeks-1">
+      <created>1665253222080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665253222080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java-homework-3weeks-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-homework-3weeks-1" />
   </component>
 </project>
