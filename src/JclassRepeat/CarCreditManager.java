@@ -5,5 +5,5 @@ public class CarCreditManager extends BaseCreditManager implements ICreditManage
     public void calculate() {
         System.out.println("Araba Kredisi Hesaplandı.");
     }
-    //DRY
+    // DRY
 }
