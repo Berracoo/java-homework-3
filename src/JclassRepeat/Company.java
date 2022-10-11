@@ -2,6 +2,7 @@ package JclassRepeat;
 
 public class Company extends Customer{
     private String companyName;
+    private String taxNumber;
 
     public String getCompanyName() {
         return companyName;
@@ -10,9 +11,7 @@ public class Company extends Customer{
     public void setCompanyName(String companyName) {
         this.companyName = companyName;
     }
-
-    private String taxNumber;
-
+    
     public String getTaxNumber() {
         return taxNumber;
     }
